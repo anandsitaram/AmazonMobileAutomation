@@ -3,8 +3,8 @@
 
 ## PREREQUISITES
 
-– Java installed on the system
-– JAVA_HOME is set in environment variables
+- Java installed on the system
+- JAVA_HOME is set in environment variables
 - Android Studio and SDK installed
 - ANDROID_HOME is set in environment variables
 - node js installed on the system
